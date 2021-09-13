@@ -1,0 +1,26 @@
+{
+  "kind": "singleType",
+  "collectionName": "homes",
+  "info": {
+    "name": "home",
+    "description": ""
+  },
+  "options": {
+    "increments": true,
+    "timestamps": true,
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "content1": {
+      "type": "component",
+      "repeatable": true,
+      "component": "hometest.hometest"
+    },
+    "content2": {
+      "type": "component",
+      "repeatable": true,
+      "component": "hometest.hometest"
+    }
+  }
+}

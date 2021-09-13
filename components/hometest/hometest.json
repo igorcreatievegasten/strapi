@@ -1,0 +1,16 @@
+{
+  "collectionName": "components_hometest_hometests",
+  "info": {
+    "name": "hometest",
+    "icon": "ad"
+  },
+  "options": {},
+  "attributes": {
+    "title": {
+      "type": "string"
+    },
+    "content": {
+      "type": "text"
+    }
+  }
+}
